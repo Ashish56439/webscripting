@@ -1,0 +1,16 @@
+{
+  "name": "tender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^7.0.1",
+    "request-promise": "^4.2.6"
+  }
+}
